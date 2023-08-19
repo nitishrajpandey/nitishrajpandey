@@ -1,8 +1,6 @@
 <!-- Add Banner  -->
 <!-- ![Github Banner](banner.png) -->
-<p align="center">
-  <img src="banner.png" alt="banner">
-</p>
+![image](https://user-images.githubusercontent.com/40739871/218845073-320f6a91-03a3-447e-a887-067fd6f9a91b.png)
 
 <!-- Add typing Text -->
 
