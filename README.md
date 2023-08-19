@@ -41,7 +41,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitishrajpandey&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishrajpandey&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitishrajpandey&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishrajpandey&theme=github_dark"/>
 |---|---|
 
 <!-- programming language  -->
