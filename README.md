@@ -1,6 +1,6 @@
 <!-- Add Banner  -->
-<!--![Github Banner](banner.png) -->
-![ScreenShot](banner.png)
+<img src="banner.png">
+
 
 <!-- Add typing Text -->
 
